@@ -1,0 +1,43 @@
+Enter no.of teams: 10
+Enter Teams:
+India
+Pakistan
+Australia
+England
+South Africa
+Afghanistan
+NewZealand
+SriLanka
+Indonesia
+[India vs Pakistan, India vs Australia, India vs England, India vs South, India vs Africa, India vs Afghanistan, India vs NewZealand, India vs SriLanka, India vs Indonesia, Pakistan vs Australia, Pakistan vs England, Pakistan vs South, Pakistan vs Africa,
+Pakistan vs Afghanistan, Pakistan vs NewZealand, Pakistan vs SriLanka, Pakistan vs Indonesia, Australia vs England, Australia vs South, Australia vs Africa, Australia vs Afghanistan, Australia vs NewZealand, Australia vs SriLanka, Australia vs Indonesia, England vs South, England vs Africa, England vs Afghanistan, England vs NewZealand, England vs SriLanka, England vs Indonesia, South vs Africa, South vs Afghanistan, South vs NewZealand, South vs SriLanka, South vs Indonesia, Africa vs Afghanistan, Africa vs NewZealand, Africa vs SriLanka, Africa vs Indonesia, Afghanistan vs NewZealand, Afghanistan vs SriLanka, Afghanistan vs Indonesia, NewZealand vs SriLanka, NewZealand vs Indonesia, SriLanka vs Indonesia]
+India
+4
+5
+Pakistan
+2
+7
+Australia
+6
+3
+England
+8
+1
+South
+4
+5
+Africa
+3
+6
+Afghanistan
+4
+5
+NewZealand
+4
+5
+SriLanka
+4
+5
+Indonesia
+6
+3
